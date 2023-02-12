@@ -1,0 +1,1 @@
+This project is an exercise in basic html and git. Taken from the Odin project course, I'll have demonstrated basic understadning of html and git, and made a plain site which links to different recipes on the web.
